@@ -1,0 +1,26 @@
+Hey, IEA, are you online?
+How are you today?
+Do you recognize me?
+I am doing a presentation here and need a little bit help.
+Great! Do you remember I ask you to watch the production line of MP66?
+Did you observe any anomalies?
+Yes, of course.
+Can you read the first two results for me?
+Ok, I understand. Did you find any relevant wafer patterns in those lots?
+Can you explain why not?
+Ok, wait a second. Let me take a look.
+Ok, I see. but did you find any systematic pattern at all?
+Ok, I see. By the way, did you look at the yield from the test bin perspective as well? 
+Ok, that is good.
+Did you perform any correlation analysis on the process parameters for test bin 24?
+What do you mean without a high correlation coefficient?
+Ok, I see. But did you find any other interesting trends with the process parameters?
+Can you elaborate on these trends?
+Ok, that is very interesting.
+How did you find those trends?
+Can you show me some examples of how I trained you?
+Great. Is anything else you want to report at this point?
+Ok, what is unusual about the testers?
+That is great.
+Can you send me a summary presentation based on our conversation?
+No. That's all. Thank you for your help today.
