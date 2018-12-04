@@ -1,0 +1,205 @@
+Hey, IEA, are you online?
+NP, [('IEA', 'NNP')]
+VP, [('are', 'VBP')]
+NP, [('you', 'PRP')]
+ADJP, [('online', 'JJ')]
+
+How are you today?
+VP, [('are', 'VBP')]
+NP, [('you', 'PRP'), ('today', 'NN')]
+
+Do you recognize me?
+VP, [('Do', 'VB')]
+NP, [('you', 'PRP')]
+VP, [('recognize', 'VBP')]
+NP, [('me', 'PRP')]
+
+I am doing a presentation here and need a little bit help.
+NP, [('I', 'PRP')]
+VP, [('am', 'VBP'), ('doing', 'VBG')]
+NP, [('a', 'DT'), ('presentation', 'NN')]
+ADVP, [('here', 'RB')]
+VP, [('need', 'VBP')]
+NP, [('a', 'DT'), ('little', 'JJ'), ('bit', 'NN')]
+VP, [('help', 'VB')]
+
+Great! Do you remember I ask you to watch the production line of MP66?
+VP, [('Great', 'VB')]
+VP, [('Do', 'VB')]
+NP, [('you', 'PRP')]
+VP, [('remember', 'VB')]
+NP, [('I', 'PRP')]
+VP, [('ask', 'VBP')]
+NP, [('you', 'PRP')]
+VP, [('to', 'TO'), ('watch', 'VB')]
+NP, [('the', 'DT'), ('production', 'NN'), ('line', 'NN')]
+PP, [('of', 'IN')]
+NP, [('MP66', 'NNP')]
+
+Did you observe any anomalies?
+VP, [('Did', 'VBD')]
+NP, [('you', 'PRP')]
+VP, [('observe', 'VBP')]
+NP, [('any', 'DT'), ('anomalies', 'NNS')]
+
+Yes, of course.
+PP, [('of', 'IN')]
+NP, [('course', 'NN')]
+
+Can you read the first two results for me?
+VP, [('Can', 'MD')]
+NP, [('you', 'PRP')]
+VP, [('read', 'VB')]
+ADJP, [('first', 'JJ')]
+NP, [('two', 'CD'), ('results', 'NNS')]
+PP, [('for', 'IN')]
+NP, [('me', 'PRP')]
+
+Ok, I understand. Did you find any relevant wafer patterns in those lots?
+NP, [('Ok', 'NNP')]
+NP, [('I', 'PRP')]
+VP, [('understand', 'VBP')]
+VP, [('Did', 'VBD')]
+NP, [('you', 'PRP')]
+VP, [('find', 'VBP')]
+NP, [('any', 'DT'), ('relevant', 'JJ'), ('wafer', 'NN'), ('patterns', 'NNS')]
+PP, [('in', 'IN')]
+NP, [('those', 'DT'), ('lots', 'NNS')]
+
+Can you explain why not?
+VP, [('Can', 'MD')]
+NP, [('you', 'PRP')]
+VP, [('explain', 'VBP')]
+ADVP, [('not', 'RB')]
+
+Ok, wait a second. Let me take a look.
+NP, [('Ok', 'NNP')]
+ADJP, [('second', 'JJ')]
+VP, [('Let', 'VB')]
+NP, [('me', 'PRP')]
+VP, [('take', 'VB')]
+NP, [('a', 'DT'), ('look', 'NN')]
+
+Ok, I see. but did you find any systematic pattern at all?
+NP, [('Ok', 'NNP')]
+NP, [('I', 'PRP')]
+VP, [('see', 'VBP')]
+VP, [('did', 'VBD')]
+NP, [('you', 'PRP')]
+VP, [('find', 'VBP')]
+NP, [('any', 'DT'), ('systematic', 'JJ'), ('pattern', 'NN')]
+PP, [('at', 'IN')]
+
+Ok, I see. By the way, did you look at the yield from the test bin perspective as well? 
+NP, [('Ok', 'NNP')]
+NP, [('I', 'PRP')]
+VP, [('see', 'VBP')]
+PP, [('By', 'IN')]
+NP, [('the', 'DT'), ('way', 'NN')]
+VP, [('did', 'VBD')]
+NP, [('you', 'PRP')]
+VP, [('look', 'VBP')]
+PP, [('at', 'IN')]
+NP, [('the', 'DT'), ('yield', 'NN')]
+PP, [('from', 'IN')]
+NP, [('the', 'DT'), ('test', 'NN'), ('bin', 'NN'), ('perspective', 'NN')]
+ADVP, [('as', 'RB'), ('well', 'RB')]
+
+Ok, that is good.
+NP, [('Ok', 'NNP')]
+VP, [('is', 'VBZ')]
+ADJP, [('good', 'JJ')]
+
+Did you perform any correlation analysis on the process parameters for test bin 24?
+VP, [('Did', 'VBD')]
+NP, [('you', 'PRP')]
+VP, [('perform', 'VBP')]
+NP, [('any', 'DT'), ('correlation', 'NN'), ('analysis', 'NN')]
+PP, [('on', 'IN')]
+NP, [('the', 'DT'), ('process', 'NN'), ('parameters', 'NNS')]
+PP, [('for', 'IN')]
+NP, [('test', 'NN'), ('bin', 'NN')]
+
+What do you mean without a high correlation coefficient?
+VP, [('do', 'VBP')]
+NP, [('you', 'PRP')]
+VP, [('mean', 'VBP')]
+PP, [('without', 'IN')]
+NP, [('a', 'DT'), ('high', 'JJ'), ('correlation', 'NN'), ('coefficient', 'NN')]
+
+Ok, I see. But did you find any other interesting trends with the process parameters?
+NP, [('Ok', 'NNP')]
+NP, [('I', 'PRP')]
+VP, [('see', 'VBP')]
+VP, [('did', 'VBD')]
+NP, [('you', 'PRP')]
+VP, [('find', 'VBP')]
+NP, [('any', 'DT'), ('other', 'JJ'), ('interesting', 'JJ'), ('trends', 'NNS')]
+PP, [('with', 'IN')]
+NP, [('the', 'DT'), ('process', 'NN'), ('parameters', 'NNS')]
+
+Can you elaborate on these trends?
+VP, [('Can', 'MD')]
+NP, [('you', 'PRP')]
+VP, [('elaborate', 'VB')]
+PP, [('on', 'IN')]
+NP, [('these', 'DT'), ('trends', 'NNS')]
+
+Ok, that is very interesting.
+NP, [('Ok', 'NNP')]
+VP, [('is', 'VBZ')]
+ADJP, [('very', 'RB'), ('interesting', 'JJ')]
+
+How did you find those trends?
+VP, [('did', 'VBD')]
+NP, [('you', 'PRP')]
+VP, [('find', 'VBP')]
+NP, [('those', 'DT'), ('trends', 'NNS')]
+
+Can you show me some examples of how I trained you?
+VP, [('Can', 'MD')]
+NP, [('you', 'PRP')]
+VP, [('show', 'VBP')]
+NP, [('me', 'PRP'), ('some', 'DT'), ('examples', 'NNS')]
+PP, [('of', 'IN')]
+NP, [('I', 'PRP')]
+VP, [('trained', 'VBP')]
+NP, [('you', 'PRP')]
+
+Great. Is anything else you want to report at this point?
+VP, [('Great', 'VB')]
+VP, [('Is', 'VBZ')]
+NP, [('anything', 'NN'), ('else', 'RB'), ('you', 'PRP')]
+VP, [('want', 'VBP'), ('to', 'TO'), ('report', 'VB')]
+PP, [('at', 'IN')]
+NP, [('this', 'DT'), ('point', 'NN')]
+
+Ok, what is unusual about the testers?
+NP, [('Ok', 'NNP')]
+VP, [('is', 'VBZ')]
+ADJP, [('unusual', 'JJ')]
+PP, [('about', 'IN')]
+NP, [('the', 'DT'), ('testers', 'NNS')]
+
+That is great.
+VP, [('is', 'VBZ')]
+ADJP, [('great', 'JJ')]
+
+Can you send me a summary presentation based on our conversation?
+VP, [('Can', 'MD')]
+NP, [('you', 'PRP')]
+VP, [('send', 'VB')]
+NP, [('me', 'PRP'), ('a', 'DT'), ('summary', 'NN'), ('presentation', 'NN')]
+VP, [('based', 'VBN')]
+PP, [('on', 'IN')]
+NP, [('our', 'PRP$'), ('conversation', 'NN')]
+
+No. That's all. Thank you for your help today.
+NP, [('No', 'NNP')]
+VP, [('That', 'RB'), ("'s", 'VBZ')]
+ADVP, [('all', 'RB')]
+VP, [('Thank', 'VB')]
+NP, [('you', 'PRP')]
+PP, [('for', 'IN')]
+NP, [('your', 'PRP$'), ('help', 'NN'), ('today', 'NN')]
+

@@ -1,0 +1,220 @@
+Hey, IEA, are you online?
+(ROOT
+  (S
+    (INTJ (UH Hey))
+    (, ,)
+    (NP (NNP IEA) (, ,))
+    (VP (VBP are) (NP (PRP you)) (PP (NN online)))
+    (. ?)))
+
+How are you today?
+(ROOT
+  (SBARQ
+    (WHADVP (WRB How))
+    (SQ (VBP are) (NP (PRP you)) (NP (NN today)))
+    (. ?)))
+
+Do you recognize me?
+(ROOT
+  (SQ
+    (VP (VB Do) (S (NP (PRP you)) (VP (VB recognize) (NP (PRP me)))))
+    (. ?)))
+
+I am doing a presentation here and need a little bit help.
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP
+        (VBP am)
+        (VP
+          (VBG doing)
+          (NP (DT a) (NN presentation))
+          (ADVP (RB here))))
+      (CC and)
+      (VP (VB need) (NP (DT a) (JJ little) (NN bit) (NN help))))
+    (. .)))
+
+Great! Do you remember I ask you to watch the production line of MP66?
+(ROOT (FRAG (ADJP (JJ Great)) (. !)))
+
+Did you observe any anomalies?
+(ROOT
+  (S
+    (VP
+      (VBD Did)
+      (SBAR
+        (S
+          (NP (PRP you))
+          (VP (VBP observe) (NP (DT any) (NNS anomalies))))))
+    (. ?)))
+
+Yes, of course.
+(ROOT
+  (FRAG (INTJ (UH Yes)) (, ,) (PP (IN of) (NP (NN course)) (. .))))
+
+Can you read the first two results for me?
+(ROOT
+  (SQ
+    (MD Can)
+    (NP (PRP you))
+    (VP
+      (VB read)
+      (NP
+        (NP (DT the) (JJ first) (CD two) (NNS results))
+        (PP (IN for) (NP (PRP me)))))
+    (. ?)))
+
+Ok, I understand. Did you find any relevant wafer patterns in those lots?
+(ROOT
+  (S
+    (NP-TMP (NNP Ok))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP understand))
+    (. .)))
+
+Can you explain why not?
+(ROOT
+  (SQ
+    (MD Can)
+    (NP (PRP you))
+    (VP (VB explain) (SBARQ (WHADVP (WRB why) (RB not))))
+    (. ?)))
+
+Ok, wait a second. Let me take a look.
+(ROOT
+  (S
+    (NP (NNP Ok))
+    (, ,)
+    (VP (VB wait) (NP (DT a) (JJ second)))
+    (. .)))
+
+Ok, I see. but did you find any systematic pattern at all?
+(ROOT (S (NP-TMP (NNP Ok)) (, ,) (NP (PRP I)) (VP (VBP see)) (. .)))
+
+Ok, I see. By the way, did you look at the yield from the test bin perspective as well? 
+(ROOT (S (NP-TMP (NNP Ok)) (, ,) (NP (PRP I)) (VP (VBP see)) (. .)))
+
+Ok, that is good.
+(ROOT
+  (FRAG
+    (NP (NNP Ok))
+    (, ,)
+    (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADJP (JJ good)))))
+    (. .)))
+
+Did you perform any correlation analysis on the process parameters for test bin 24?
+(ROOT
+  (SQ
+    (VBD Did)
+    (NP (PRP you))
+    (VP
+      (VB perform)
+      (NP (DT any) (NN correlation) (NN analysis))
+      (PP
+        (IN on)
+        (NP
+          (NP (DT the) (NN process) (NNS parameters))
+          (PP (IN for) (NP (NN test) (NN bin) (CD 24))))))
+    (. ?)))
+
+What do you mean without a high correlation coefficient?
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ
+      (VBP do)
+      (NP (PRP you))
+      (VP
+        (VB mean)
+        (PP
+          (IN without)
+          (NP (DT a) (JJ high) (NN correlation) (NN coefficient)))))
+    (. ?)))
+
+Ok, I see. But did you find any other interesting trends with the process parameters?
+(ROOT (S (NP-TMP (NNP Ok)) (, ,) (NP (PRP I)) (VP (VBP see)) (. .)))
+
+Can you elaborate on these trends?
+(ROOT
+  (SQ
+    (MD Can)
+    (NP (PRP you))
+    (VP (VB elaborate) (PP (IN on) (NP (DT these) (NNS trends))))
+    (. ?)))
+
+Ok, that is very interesting.
+(ROOT
+  (FRAG
+    (NP (NNP Ok))
+    (, ,)
+    (SBAR
+      (WHNP (WDT that))
+      (S (VP (VBZ is) (ADJP (RB very) (JJ interesting)))))
+    (. .)))
+
+How did you find those trends?
+(ROOT
+  (SBARQ
+    (WHADVP (WRB How))
+    (SQ
+      (VBD did)
+      (NP (PRP you))
+      (VP (VB find) (NP (DT those) (NNS trends))))
+    (. ?)))
+
+Can you show me some examples of how I trained you?
+(ROOT
+  (SQ
+    (MD Can)
+    (NP (PRP you))
+    (VP
+      (VB show)
+      (NP (PRP me))
+      (NP
+        (NP (DT some) (NNS examples))
+        (PP
+          (IN of)
+          (SBAR
+            (WHADVP (WRB how))
+            (S (NP (PRP I)) (VP (VBD trained) (NP (PRP you))))))))
+    (. ?)))
+
+Great. Is anything else you want to report at this point?
+(ROOT (FRAG (NP (NNP Great)) (. .)))
+
+Ok, what is unusual about the testers?
+(ROOT
+  (SBARQ
+    (NP (NNP Ok))
+    (, ,)
+    (WHNP (WP what))
+    (SQ
+      (VBZ is)
+      (NP
+        (NP (JJ unusual))
+        (PP (IN about) (NP (DT the) (NNS testers)))))
+    (. ?)))
+
+That is great.
+(ROOT (S (NP (DT That)) (VP (VBZ is) (ADJP (JJ great))) (. .)))
+
+Can you send me a summary presentation based on our conversation?
+(ROOT
+  (SQ
+    (MD Can)
+    (NP (PRP you))
+    (VP
+      (VB send)
+      (NP (PRP me))
+      (NP
+        (NP (DT a) (NN summary) (NN presentation))
+        (PP
+          (VBN based)
+          (PP (IN on) (NP (PRP$ our) (NN conversation))))))
+    (. ?)))
+
+No. That's all. Thank you for your help today.
+(ROOT (FRAG (NP (DT No)) (. .)))
+
